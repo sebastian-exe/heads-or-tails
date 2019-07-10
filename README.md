@@ -8,3 +8,6 @@ Its almost done, I need to figure out how to center things, also need to figure
 out how to get things so that they don't get cut off when moving the phone into portrait
 or landscape.
 Also using this for version control, just incase!
+
+
+PSA: Only thing left is to fix the constraints on the app so that it can resize to multiple different devices
